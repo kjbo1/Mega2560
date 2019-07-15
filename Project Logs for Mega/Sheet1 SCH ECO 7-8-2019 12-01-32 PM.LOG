@@ -1,0 +1,158 @@
+Remove Pin=AI1-1 From Net=A0
+Remove Pin=AI1-2 From Net=A1
+Remove Pin=AI1-3 From Net=A2
+Remove Pin=AI1-4 From Net=A3
+Remove Pin=AI1-5 From Net=A4
+Remove Pin=AI1-6 From Net=A5
+Remove Pin=AI1-7 From Net=A6
+Remove Pin=AI1-8 From Net=A7
+Remove Pin=AI2-1 From Net=A8
+Remove Pin=AI2-2 From Net=A9
+Remove Pin=AI2-3 From Net=A10
+Remove Pin=AI2-4 From Net=A11
+Remove Pin=AI2-5 From Net=A12
+Remove Pin=AI2-6 From Net=A13
+Remove Pin=AI2-7 From Net=A14
+Remove Pin=AI2-8 From Net=A15
+Remove Pin=Communication-1 From Net=D21 (SCL)
+Remove Pin=Communication-2 From Net=D20 (SDA)
+Remove Pin=Communication-3 From Net=D19 (RX1)
+Remove Pin=Communication-4 From Net=D18 (TX1)
+Remove Pin=Communication-5 From Net=D17 (RX2)
+Remove Pin=Communication-6 From Net=D16 (TX2)
+Remove Pin=Communication-7 From Net=D15 (RX3)
+Remove Pin=Communication-8 From Net=D14 (TX3)
+Remove Pin=Cx1-2 From Net=GND
+Remove Pin=P1-1 From Net=VCC
+Remove Pin=P1-2 From Net=VCC
+Remove Pin=P1-3 From Net=D22
+Remove Pin=P1-4 From Net=D23
+Remove Pin=P1-5 From Net=D24
+Remove Pin=P1-6 From Net=D25
+Remove Pin=P1-7 From Net=D26
+Remove Pin=P1-8 From Net=D27
+Remove Pin=P1-9 From Net=D28
+Remove Pin=P1-10 From Net=D29
+Remove Pin=P1-11 From Net=D30
+Remove Pin=P1-12 From Net=D31
+Remove Pin=P1-13 From Net=D32
+Remove Pin=P1-14 From Net=D33
+Remove Pin=P1-15 From Net=D34
+Remove Pin=P1-16 From Net=D35
+Remove Pin=P1-17 From Net=D36
+Remove Pin=P1-18 From Net=D37
+Remove Pin=P1-19 From Net=D38
+Remove Pin=P1-20 From Net=D39
+Remove Pin=P1-21 From Net=D40
+Remove Pin=P1-22 From Net=D41
+Remove Pin=P1-23 From Net=D42
+Remove Pin=P1-24 From Net=D43
+Remove Pin=P1-25 From Net=D44 (PWM)
+Remove Pin=P1-26 From Net=D45 (PWM)
+Remove Pin=P1-27 From Net=D46 (PWM)
+Remove Pin=P1-28 From Net=D47
+Remove Pin=P1-29 From Net=D48
+Remove Pin=P1-30 From Net=D49
+Remove Pin=P1-31 From Net=D50 (MISO)
+Remove Pin=P1-32 From Net=D51 (MOSI)
+Remove Pin=P1-33 From Net=D52 (SCK)
+Remove Pin=P1-34 From Net=D53 (SS)
+Remove Pin=P1-35 From Net=GND
+Remove Pin=P1-36 From Net=GND
+Remove Pin=P6-1 From Net=D13 (PWM)
+Remove Pin=P6-2 From Net=D12 (PWM)
+Remove Pin=P6-3 From Net=D11 (PWM)
+Remove Pin=P6-4 From Net=D10 (PWM)
+Remove Pin=P6-5 From Net=D9 (PWM)
+Remove Pin=P6-6 From Net=D8 (PWM)
+Remove Pin=PWM-1 From Net=D0 (RX0)
+Remove Pin=PWM-2 From Net=D1 (TX0)
+Remove Pin=PWM-3 From Net=D2 (PWM)
+Remove Pin=PWM-4 From Net=D3 (PWM)
+Remove Pin=PWM-5 From Net=D4 (PWM)
+Remove Pin=PWM-6 From Net=D5 (PWM)
+Remove Pin=PWM-7 From Net=D6 (PWM)
+Remove Pin=PWM-8 From Net=D7 (PWM)
+Remove Pin=SW1-2 From Net=GND
+Remove Pin=U1-1 From Net=D4 (PWM)
+Remove Pin=U1-2 From Net=D0 (RX0)
+Remove Pin=U1-3 From Net=D1 (TX0)
+Remove Pin=U1-5 From Net=D5 (PWM)
+Remove Pin=U1-6 From Net=D2 (PWM)
+Remove Pin=U1-7 From Net=D3 (PWM)
+Remove Pin=U1-10 From Net=VCC
+Remove Pin=U1-11 From Net=GND
+Remove Pin=U1-12 From Net=D17 (RX2)
+Remove Pin=U1-13 From Net=D16 (TX2)
+Remove Pin=U1-15 From Net=D6 (PWM)
+Remove Pin=U1-16 From Net=D7 (PWM)
+Remove Pin=U1-17 From Net=D8 (PWM)
+Remove Pin=U1-18 From Net=D9 (PWM)
+Remove Pin=U1-19 From Net=D53 (SS)
+Remove Pin=U1-20 From Net=D52 (SCK)
+Remove Pin=U1-21 From Net=D51 (MOSI)
+Remove Pin=U1-22 From Net=D50 (MISO)
+Remove Pin=U1-23 From Net=D10 (PWM)
+Remove Pin=U1-24 From Net=D11 (PWM)
+Remove Pin=U1-25 From Net=D12 (PWM)
+Remove Pin=U1-26 From Net=D13 (PWM)
+Remove Pin=U1-27 From Net=D13 (PWM)
+Remove Pin=U1-31 From Net=VCC
+Remove Pin=U1-32 From Net=GND
+Remove Pin=U1-33 From Net=XTAL2
+Remove Pin=U1-35 From Net=D49
+Remove Pin=U1-36 From Net=D48
+Remove Pin=U1-37 From Net=D47
+Remove Pin=U1-38 From Net=D46 (PWM)
+Remove Pin=U1-39 From Net=D45 (PWM)
+Remove Pin=U1-40 From Net=D44 (PWM)
+Remove Pin=U1-41 From Net=D43
+Remove Pin=U1-42 From Net=D42
+Remove Pin=U1-43 From Net=D21 (SCL)
+Remove Pin=U1-44 From Net=D20 (SDA)
+Remove Pin=U1-45 From Net=D19 (RX1)
+Remove Pin=U1-46 From Net=D18 (TX1)
+Remove Pin=U1-50 From Net=D38
+Remove Pin=U1-51 From Net=D41
+Remove Pin=U1-52 From Net=D40
+Remove Pin=U1-53 From Net=D37
+Remove Pin=U1-54 From Net=D36
+Remove Pin=U1-55 From Net=D35
+Remove Pin=U1-56 From Net=D34
+Remove Pin=U1-57 From Net=D33
+Remove Pin=U1-58 From Net=D32
+Remove Pin=U1-59 From Net=D31
+Remove Pin=U1-60 From Net=D30
+Remove Pin=U1-61 From Net=VCC
+Remove Pin=U1-62 From Net=GND
+Remove Pin=U1-63 From Net=D15 (RX3)
+Remove Pin=U1-64 From Net=D14 (TX3)
+Remove Pin=U1-70 From Net=D39
+Remove Pin=U1-71 From Net=D29
+Remove Pin=U1-72 From Net=D28
+Remove Pin=U1-73 From Net=D27
+Remove Pin=U1-74 From Net=D26
+Remove Pin=U1-75 From Net=D25
+Remove Pin=U1-76 From Net=D24
+Remove Pin=U1-77 From Net=D23
+Remove Pin=U1-78 From Net=D22
+Remove Pin=U1-80 From Net=VCC
+Remove Pin=U1-81 From Net=GND
+Remove Pin=U1-82 From Net=A15
+Remove Pin=U1-83 From Net=A14
+Remove Pin=U1-84 From Net=A13
+Remove Pin=U1-85 From Net=A12
+Remove Pin=U1-86 From Net=A11
+Remove Pin=U1-87 From Net=A10
+Remove Pin=U1-88 From Net=A9
+Remove Pin=U1-89 From Net=A8
+Remove Pin=U1-90 From Net=A7
+Remove Pin=U1-91 From Net=A6
+Remove Pin=U1-92 From Net=A5
+Remove Pin=U1-93 From Net=A4
+Remove Pin=U1-94 From Net=A3
+Remove Pin=U1-95 From Net=A2
+Remove Pin=U1-96 From Net=A1
+Remove Pin=U1-97 From Net=A0
+Remove Pin=U1-99 From Net=GND
+Remove Pin=U1-100 From Net=VCC

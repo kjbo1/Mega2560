@@ -1,0 +1,183 @@
+Removed Pin From Net: NetName=GND Pin=U1-A1
+Removed Pin From Net: NetName=VCC Pin=U1-A2
+Removed Pin From Net: NetName=A0 Pin=U1-A3
+Removed Pin From Net: NetName=A2 Pin=U1-A4
+Removed Pin From Net: NetName=A5 Pin=U1-A5
+Removed Pin From Net: NetName=A8 Pin=U1-A6
+Removed Pin From Net: NetName=A11 Pin=U1-A7
+Removed Pin From Net: NetName=A14 Pin=U1-A8
+Removed Pin From Net: NetName=GND Pin=U1-A9
+Removed Pin From Net: NetName=VCC Pin=U1-A10
+Removed Pin From Net: NetName=VCC Pin=U1-B1
+Removed Pin From Net: NetName=D4 (PWM) Pin=U1-B2
+Removed Pin From Net: NetName=A1 Pin=U1-B3
+Removed Pin From Net: NetName=A3 Pin=U1-B4
+Removed Pin From Net: NetName=A6 Pin=U1-B5
+Removed Pin From Net: NetName=A9 Pin=U1-B6
+Removed Pin From Net: NetName=A12 Pin=U1-B7
+Removed Pin From Net: NetName=A15 Pin=U1-B8
+Removed Pin From Net: NetName=D22 Pin=U1-B9
+Removed Pin From Net: NetName=D24 Pin=U1-B10
+Removed Pin From Net: NetName=D0 (RX0) Pin=U1-C2
+Removed Pin From Net: NetName=D1 (TX0) Pin=U1-C3
+Removed Pin From Net: NetName=A4 Pin=U1-C4
+Removed Pin From Net: NetName=A7 Pin=U1-C5
+Removed Pin From Net: NetName=A10 Pin=U1-C6
+Removed Pin From Net: NetName=A13 Pin=U1-C7
+Removed Pin From Net: NetName=D23 Pin=U1-C9
+Removed Pin From Net: NetName=D25 Pin=U1-C10
+Removed Pin From Net: NetName=D5 (PWM) Pin=U1-D1
+Removed Pin From Net: NetName=D2 (PWM) Pin=U1-D2
+Removed Pin From Net: NetName=D3 (PWM) Pin=U1-D3
+Removed Pin From Net: NetName=D26 Pin=U1-D6
+Removed Pin From Net: NetName=D27 Pin=U1-D7
+Removed Pin From Net: NetName=D28 Pin=U1-D8
+Removed Pin From Net: NetName=D29 Pin=U1-D9
+Removed Pin From Net: NetName=D39 Pin=U1-D10
+Removed Pin From Net: NetName=D17 (RX2) Pin=U1-E2
+Removed Pin From Net: NetName=D16 (TX2) Pin=U1-E3
+Removed Pin From Net: NetName=D6 (PWM) Pin=U1-E4
+Removed Pin From Net: NetName=D8 (PWM) Pin=U1-E5
+Removed Pin From Net: NetName=VCC Pin=U1-F1
+Removed Pin From Net: NetName=D7 (PWM) Pin=U1-F2
+Removed Pin From Net: NetName=D9 (PWM) Pin=U1-F3
+Removed Pin From Net: NetName=D53 (SS) Pin=U1-F4
+Removed Pin From Net: NetName=D45 (PWM) Pin=U1-F5
+Removed Pin From Net: NetName=D20 (SDA) Pin=U1-F6
+Removed Pin From Net: NetName=D14 (TX3) Pin=U1-F7
+Removed Pin From Net: NetName=D15 (RX3) Pin=U1-F8
+Removed Pin From Net: NetName=D30 Pin=U1-F9
+Removed Pin From Net: NetName=GND Pin=U1-F10
+Removed Pin From Net: NetName=GND Pin=U1-G1
+Removed Pin From Net: NetName=D52 (SCK) Pin=U1-G2
+Removed Pin From Net: NetName=D51 (MOSI) Pin=U1-G3
+Removed Pin From Net: NetName=D11 (PWM) Pin=U1-G4
+Removed Pin From Net: NetName=D47 Pin=U1-G5
+Removed Pin From Net: NetName=D21 (SCL) Pin=U1-G6
+Removed Pin From Net: NetName=D32 Pin=U1-G8
+Removed Pin From Net: NetName=D31 Pin=U1-G9
+Removed Pin From Net: NetName=VCC Pin=U1-G10
+Removed Pin From Net: NetName=D50 (MISO) Pin=U1-H1
+Removed Pin From Net: NetName=D10 (PWM) Pin=U1-H2
+Removed Pin From Net: NetName=VCC Pin=U1-H3
+Removed Pin From Net: NetName=D48 Pin=U1-H4
+Removed Pin From Net: NetName=D46 (PWM) Pin=U1-H5
+Removed Pin From Net: NetName=D42 Pin=U1-H6
+Removed Pin From Net: NetName=D33 Pin=U1-H8
+Removed Pin From Net: NetName=D34 Pin=U1-H9
+Removed Pin From Net: NetName=D35 Pin=U1-H10
+Removed Pin From Net: NetName=D12 (PWM) Pin=U1-J3
+Removed Pin From Net: NetName=D49 Pin=U1-J4
+Removed Pin From Net: NetName=XTAL2 Pin=U1-J5
+Removed Pin From Net: NetName=D43 Pin=U1-J6
+Removed Pin From Net: NetName=D18 (TX1) Pin=U1-J7
+Removed Pin From Net: NetName=D36 Pin=U1-J8
+Removed Pin From Net: NetName=D37 Pin=U1-J9
+Removed Pin From Net: NetName=D40 Pin=U1-J10
+Removed Pin From Net: NetName=D13 (PWM) Pin=U1-K1
+Removed Pin From Net: NetName=VCC Pin=U1-K3
+Removed Pin From Net: NetName=GND Pin=U1-K4
+Removed Pin From Net: NetName=XTAL1 Pin=U1-K5
+Removed Pin From Net: NetName=D44 (PWM) Pin=U1-K6
+Removed Pin From Net: NetName=D19 (RX1) Pin=U1-K7
+Removed Pin From Net: NetName=D38 Pin=U1-K9
+Removed Pin From Net: NetName=D41 Pin=U1-K10
+Change Component Footprint: Designator=U1 Old Footprint=BGA100 New Footprint=TQFP100L
+Change Component Comment : Designator=U1 Old Comment=ATmega2560-CU New Comment=ATmega2560-AU
+Change component parameters: Designator = "U1"; Footprint = "TQFP100L"; UniqueID = "\BODUODCK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ATMEGA2560-16AUR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Cx1(CN-SMD-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cx1-2
+Added Pin To Net: NetName=D4 (PWM) Pin=U1-1
+Added Pin To Net: NetName=D0 (RX0) Pin=U1-2
+Added Pin To Net: NetName=D1 (TX0) Pin=U1-3
+Added Pin To Net: NetName=D5 (PWM) Pin=U1-5
+Added Pin To Net: NetName=D2 (PWM) Pin=U1-6
+Added Pin To Net: NetName=D3 (PWM) Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=D17 (RX2) Pin=U1-12
+Added Pin To Net: NetName=D16 (TX2) Pin=U1-13
+Added Pin To Net: NetName=D6 (PWM) Pin=U1-15
+Added Pin To Net: NetName=D7 (PWM) Pin=U1-16
+Added Pin To Net: NetName=D8 (PWM) Pin=U1-17
+Added Pin To Net: NetName=D9 (PWM) Pin=U1-18
+Added Pin To Net: NetName=D53 (SS) Pin=U1-19
+Added Pin To Net: NetName=D52 (SCK) Pin=U1-20
+Added Pin To Net: NetName=D51 (MOSI) Pin=U1-21
+Added Pin To Net: NetName=D50 (MISO) Pin=U1-22
+Added Pin To Net: NetName=D10 (PWM) Pin=U1-23
+Added Pin To Net: NetName=D11 (PWM) Pin=U1-24
+Added Pin To Net: NetName=D12 (PWM) Pin=U1-25
+Added Pin To Net: NetName=D13 (PWM) Pin=U1-26
+Added Pin To Net: NetName=D13 (PWM) Pin=U1-27
+Added Pin To Net: NetName=VCC Pin=U1-30
+Added Pin To Net: NetName=VCC Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=XTAL2 Pin=U1-33
+Added Pin To Net: NetName=XTAL1 Pin=U1-34
+Added Pin To Net: NetName=D49 Pin=U1-35
+Added Pin To Net: NetName=D48 Pin=U1-36
+Added Pin To Net: NetName=D47 Pin=U1-37
+Added Pin To Net: NetName=D46 (PWM) Pin=U1-38
+Added Pin To Net: NetName=D45 (PWM) Pin=U1-39
+Added Pin To Net: NetName=D44 (PWM) Pin=U1-40
+Added Pin To Net: NetName=D43 Pin=U1-41
+Added Pin To Net: NetName=D42 Pin=U1-42
+Added Pin To Net: NetName=D21 (SCL) Pin=U1-43
+Added Pin To Net: NetName=D20 (SDA) Pin=U1-44
+Added Pin To Net: NetName=D19 (RX1) Pin=U1-45
+Added Pin To Net: NetName=D18 (TX1) Pin=U1-46
+Added Pin To Net: NetName=D38 Pin=U1-50
+Added Pin To Net: NetName=D41 Pin=U1-51
+Added Pin To Net: NetName=D40 Pin=U1-52
+Added Pin To Net: NetName=D37 Pin=U1-53
+Added Pin To Net: NetName=D36 Pin=U1-54
+Added Pin To Net: NetName=D35 Pin=U1-55
+Added Pin To Net: NetName=D34 Pin=U1-56
+Added Pin To Net: NetName=D33 Pin=U1-57
+Added Pin To Net: NetName=D32 Pin=U1-58
+Added Pin To Net: NetName=D31 Pin=U1-59
+Added Pin To Net: NetName=D30 Pin=U1-60
+Added Pin To Net: NetName=VCC Pin=U1-61
+Added Pin To Net: NetName=GND Pin=U1-62
+Added Pin To Net: NetName=D15 (RX3) Pin=U1-63
+Added Pin To Net: NetName=D14 (TX3) Pin=U1-64
+Added Pin To Net: NetName=D39 Pin=U1-70
+Added Pin To Net: NetName=D29 Pin=U1-71
+Added Pin To Net: NetName=D28 Pin=U1-72
+Added Pin To Net: NetName=D27 Pin=U1-73
+Added Pin To Net: NetName=D26 Pin=U1-74
+Added Pin To Net: NetName=D25 Pin=U1-75
+Added Pin To Net: NetName=D24 Pin=U1-76
+Added Pin To Net: NetName=D23 Pin=U1-77
+Added Pin To Net: NetName=D22 Pin=U1-78
+Added Pin To Net: NetName=VCC Pin=U1-80
+Added Pin To Net: NetName=GND Pin=U1-81
+Added Pin To Net: NetName=A15 Pin=U1-82
+Added Pin To Net: NetName=A14 Pin=U1-83
+Added Pin To Net: NetName=A13 Pin=U1-84
+Added Pin To Net: NetName=A12 Pin=U1-85
+Added Pin To Net: NetName=A11 Pin=U1-86
+Added Pin To Net: NetName=A10 Pin=U1-87
+Added Pin To Net: NetName=A9 Pin=U1-88
+Added Pin To Net: NetName=A8 Pin=U1-89
+Added Pin To Net: NetName=A7 Pin=U1-90
+Added Pin To Net: NetName=A6 Pin=U1-91
+Added Pin To Net: NetName=A5 Pin=U1-92
+Added Pin To Net: NetName=A4 Pin=U1-93
+Added Pin To Net: NetName=A3 Pin=U1-94
+Added Pin To Net: NetName=A2 Pin=U1-95
+Added Pin To Net: NetName=A1 Pin=U1-96
+Added Pin To Net: NetName=A0 Pin=U1-97
+Added Pin To Net: NetName=GND Pin=U1-99
+Added Pin To Net: NetName=VCC Pin=U1-100
+Added Pin To Net: NetName=NetCx1_1 Pin=Cx1-1
+Added Pin To Net: NetName=NetCx1_1 Pin=U1-98
+Added Net: Name=NetCx1_1
+Added Member To Class: ClassName=Sheet1 Member=Component Cx1 XXpF
+Added Room: Name=Sheet1

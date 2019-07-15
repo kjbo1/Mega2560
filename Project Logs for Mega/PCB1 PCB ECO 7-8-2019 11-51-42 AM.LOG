@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=XTAL1 Pin=C1-2
+Removed Pin From Net: NetName=NetC2_1 Pin=C2-1
+Removed Pin From Net: NetName=XTAL2 Pin=C2-2
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=NetC2_1 Pin=R1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=R1-2
+Removed Pin From Net: NetName=NetC3_1 Pin=R2-1
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=NetC3_1 Pin=U2-3
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=C3
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=RES-SMD-1206
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=CAP-ALU-SMD-4.5x5x1.4
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=CN-ALU-SMD
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=Res
+Change component parameters: Designator = "C1"; Footprint = "CAP-ALU-SMD-4.5x5x1.4"; UniqueID = "\JZZSCPMR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RES-SMD-1206"; UniqueID = "\AWASCWIS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=Cx2(CN-SMD-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx3(CN-SMD-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=Cx2-1
+Added Pin To Net: NetName=XTAL1 Pin=Cx2-2
+Added Pin To Net: NetName=NetC3_1 Pin=Cx3-1
+Added Pin To Net: NetName=XTAL2 Pin=Cx3-2
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=U2-3
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetCx2_1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetCx3_1
+Added Member To Class: ClassName=Sheet1 Member=Component Cx2 XXpF
+Added Member To Class: ClassName=Sheet1 Member=Component Cx3 XXpF
