@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : SN65176BDR.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\Projects\Mega\Library\SN65176BDR.lia
+    Section : PCB Library - SN65176BDR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SN65176BDR On Line 189
+            Warning - 1 : Skipping Token attachedSymbol On Line 296
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SN65176BDR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 144
+        EndSection
+
+        Section : Generating SCH Library - SN65176BDR.SchLib
+        EndSection
+    EndSection
+EndSection
