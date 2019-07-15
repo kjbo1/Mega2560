@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=TopLayer.SchDoc
+Record=SheetSymbol|SourceDocument=TopLayer.SchDoc|Designator=U_Module RS485|SchDesignator=U_Module RS485|FileName=Module RS485.SchDoc|SymbolType=Normal|RawFileName=Module RS485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLayer.SchDoc|Designator=U_Sheet1|SchDesignator=U_Sheet1|FileName=Sheet1.SchDoc|SymbolType=Normal|RawFileName=Sheet1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
